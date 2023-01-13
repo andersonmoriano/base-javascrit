@@ -16,3 +16,13 @@ console.log(result);
 const isActive = false;
 const message = (isActive) ? 'Activo' : 'Inactivo';
 console.log(message);
+
+map
+forEach
+findIndex
+flat
+join
+pop
+push
+reverse
+some
